@@ -5,7 +5,9 @@
 }
 
 body{
-    background: url('./assets/8432.jpg');
-    background-size: cover;
-    background-attachment: fixed;
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(./assets/undraw_make_it_rain_iwk4.svg) no-repeat center center fixed;
+    background-size: 100% 100%;
+    background-color: #ffff00;
 }

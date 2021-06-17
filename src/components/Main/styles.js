@@ -8,6 +8,7 @@ export default makeStyles((theme) => ({
   },
   root:{
     borderBottom: '10px solid rgba(0, 0, 255, 0.5)',
+    minWidth: '100%'
   },
   expand: {
     transform: 'rotate(0deg)',

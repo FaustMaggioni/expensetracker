@@ -15,7 +15,7 @@ const Main = () => {
                     Total Balance $100
                 </Typography>
                 <Typography variant="subtitle1" style={{ lineHeight: '1.5em', marginTop: '20px' }}>
-                    Info
+                    Try to add a transaction with your voice! 
                 </Typography>
                 <Divider/>
                 <Form/>
